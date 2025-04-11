@@ -9,7 +9,7 @@ class App extends Component {
 			person: {
 				fullName: "Jessica Gray",
 				bio: "A Professional Software Developer who loves to build things.",
-				imgSrc: "/profileImage.jpg",
+				imgSrc: "/images/profileImage.jpg",
 				profession: "Software Developer",
 			},
 			shows: false,
